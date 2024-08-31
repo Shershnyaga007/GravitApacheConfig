@@ -1,1 +1,1 @@
-"# GravitApacheConfig" 
+### Simple Apache reverse proxy server examples for [Gravit Launcher](https://gravitlauncher.com/).
